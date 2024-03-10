@@ -1,0 +1,8 @@
+results/**
+test_bench/**
+pretrained_models/**
+Paint_by_Example.egg-info/** 
+ldm/**
+checkpoints/**
+dataset/**
+eval_tool/gmm/coco2017_gmm_k20
